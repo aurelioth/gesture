@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Itekube/TouchIT/Demo/Scene/TouchIT_Example.unity
+  isLoaded: 1
+  isActive: 1
